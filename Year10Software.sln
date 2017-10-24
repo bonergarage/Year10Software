@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Fun", "Number Fun\Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickaDoor", "PickaDoor\PickaDoor.csproj", "{1633FA5D-F679-4B37-A165-678478AF965D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessMyNumber", "GuessMyNumber\GuessMyNumber.csproj", "{14B909BA-F204-4014-A9B6-7A1ED6D1A390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1633FA5D-F679-4B37-A165-678478AF965D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1633FA5D-F679-4B37-A165-678478AF965D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1633FA5D-F679-4B37-A165-678478AF965D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B909BA-F204-4014-A9B6-7A1ED6D1A390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B909BA-F204-4014-A9B6-7A1ED6D1A390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B909BA-F204-4014-A9B6-7A1ED6D1A390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B909BA-F204-4014-A9B6-7A1ED6D1A390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
