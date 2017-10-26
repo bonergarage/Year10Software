@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickaDoor", "PickaDoor\Pick
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessMyNumber", "GuessMyNumber\GuessMyNumber.csproj", "{14B909BA-F204-4014-A9B6-7A1ED6D1A390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{59A22EAB-98B1-40E3-AAC7-4C02C84ECD84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{14B909BA-F204-4014-A9B6-7A1ED6D1A390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14B909BA-F204-4014-A9B6-7A1ED6D1A390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14B909BA-F204-4014-A9B6-7A1ED6D1A390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A22EAB-98B1-40E3-AAC7-4C02C84ECD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A22EAB-98B1-40E3-AAC7-4C02C84ECD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A22EAB-98B1-40E3-AAC7-4C02C84ECD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A22EAB-98B1-40E3-AAC7-4C02C84ECD84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
