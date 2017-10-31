@@ -16,9 +16,9 @@ namespace AreaCalculator
                 // Menu
                 Console.Clear();
                 Console.WriteLine("chose n option");
-                Console.Wrieline("1. Area of Rectangle");
+                Console.WriteLine("1. Area of Rectangle");
                 Console.WriteLine("2.Area of Triangle");
-                Console.Wrieline("3. Area of Circle");
+                Console.WriteLine("3. Area of Circle");
                 Console.WriteLine("4. Exit");
                 choice = Console.ReadLine();
 
@@ -39,7 +39,7 @@ namespace AreaCalculator
 
                 // Wait
                 Console.WriteLine();
-                Console.Wrieline("Press Any Key To Continue....")
+                Console.WriteLine("Press Any Key To Continue....");
                 Console.ReadKey();
 
 
