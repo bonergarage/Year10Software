@@ -16,12 +16,28 @@ namespace Magic8BALL
 
         private static void playgame()
         {
-            string[] answer = { "No", "Yes", "Maybe", "For sure" };
-            Console.Write("Ask me a question (or type 'Exit'): ");
-            string choice = Console.ReadLine();
-            Random rnd = new Random();
-            Console.WriteLine(Answers[rnd.Next(0, 4)]);
-            Console.ReadKey();
+            // Define array of answers
+            string[] answer = { "No", "Yes", "Maybe", "For sure", "fight me cunt" };
+            
+            // Prompt user
+            Console.Write("Ask me a question that can be answered 'yes' or 'no'. type 'Exit' to leave");
+
+            // Only play the game if the user doesn't type 'Exit'
+            if(Console.ReadLine() != "Exit")
+            {
+                // Pick a random answer
+                Random rnd = new Random();
+
+                // Print out random item from array
+                Console.WriteLine(answer[rnd.Next(9)]);
+
+                // Blank line
+                Console.WriteLine("");
+
+                // Go again
+                playgame();
+            }
+           
         }
     }
 }
