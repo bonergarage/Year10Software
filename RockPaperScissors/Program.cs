@@ -73,7 +73,7 @@ namespace RockPaperScissors
             {
                 return "Rock";
             }
-            else if ()
+            
         }
 
     }
