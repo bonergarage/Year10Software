@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic8BALL", "Magic8BALL\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsultGenerator", "InsultGenerator\InsultGenerator.csproj", "{CEE97306-85DC-4571-A91F-A519F856B7AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGame", "PlayGame\PlayGame.csproj", "{8DD41AC6-CB6F-4B96-9FB4-73733EF0455B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{CEE97306-85DC-4571-A91F-A519F856B7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEE97306-85DC-4571-A91F-A519F856B7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEE97306-85DC-4571-A91F-A519F856B7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD41AC6-CB6F-4B96-9FB4-73733EF0455B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD41AC6-CB6F-4B96-9FB4-73733EF0455B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD41AC6-CB6F-4B96-9FB4-73733EF0455B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD41AC6-CB6F-4B96-9FB4-73733EF0455B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
